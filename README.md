@@ -1,7 +1,7 @@
 # test coverage for  [htmlparser2 (v3.9.2)](https://github.com/fb55/htmlparser2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-htmlparser2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-htmlparser2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-htmlparser2.svg)](https://travis-ci.org/npmtest/node-npmtest-htmlparser2)
 #### Fast & forgiving HTML/XML/RSS parser
 
-[![NPM](https://nodei.co/npm/htmlparser2.png?downloads=true)](https://www.npmjs.com/package/htmlparser2)
+[![NPM](https://nodei.co/npm/htmlparser2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/htmlparser2)
 
 | git-branch : | [alpha](https://github.com/npmtest/node-npmtest-htmlparser2/tree/alpha)|
 |--:|:--|
@@ -9,11 +9,17 @@
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.html)|
 | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-htmlparser2/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-htmlparser2/tree/gh-pages/build)|
 
-[![istanbul-coverage](https://npmtest.github.io/node-npmtest-htmlparser2/build/screenCapture.buildCustomOrg.browser.coverage.html.png)](https://npmtest.github.io/node-npmtest-htmlparser2/build/coverage.html/index.html)
+- [https://npmtest.github.io/node-npmtest-htmlparser2/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-htmlparser2/build/coverage.html/index.html)
 
-[![test-report](https://npmtest.github.io/node-npmtest-htmlparser2/build/screenCapture.buildCustomOrg.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmtest%252Fnode-npmtest-htmlparser2%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.html)
+[![istanbul-coverage](https://npmtest.github.io/node-npmtest-htmlparser2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fcoverage.lib.html.png)](https://npmtest.github.io/node-npmtest-htmlparser2/build/coverage.html/index.html)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-htmlparser2/build/screenCapture.buildApidoc.browser.%252Fhome%252Ftravis%252Fbuild%252Fnpmdoc%252Fnode-npmdoc-htmlparser2%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-htmlparser2/build/apidoc.html)
+- [https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.html](https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.html)
+
+[![test-report](https://npmtest.github.io/node-npmtest-htmlparser2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Ftest-report.html.png)](https://npmtest.github.io/node-npmtest-htmlparser2/build/test-report.html)
+
+- [https://npmdoc.github.io/node-npmdoc-htmlparser2/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-htmlparser2/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-htmlparser2/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-htmlparser2/build/apidoc.html)
 
 ![npmPackageListing](https://npmtest.github.io/node-npmtest-htmlparser2/build/screenCapture.npmPackageListing.svg)
 
@@ -27,8 +33,7 @@
 
 {
     "author": {
-        "name": "Felix Boehm",
-        "email": "me@feedic.com"
+        "name": "Felix Boehm"
     },
     "browser": {
         "readable-stream": false
@@ -78,13 +83,11 @@
     "main": "lib/index.js",
     "maintainers": [
         {
-            "name": "feedic",
-            "email": "me@feedic.com"
+            "name": "feedic"
         }
     ],
     "name": "htmlparser2",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git://github.com/fb55/htmlparser2.git"
