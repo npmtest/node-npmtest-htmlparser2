@@ -1,4 +1,7 @@
-# test coverage for  [htmlparser2 (v3.9.2)](https://github.com/fb55/htmlparser2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-htmlparser2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-htmlparser2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-htmlparser2.svg)](https://travis-ci.org/npmtest/node-npmtest-htmlparser2)
+# npmtest-htmlparser2
+
+#### basic test coverage for  [htmlparser2 (v3.9.2)](https://github.com/fb55/htmlparser2#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-htmlparser2.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-htmlparser2) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-htmlparser2.svg)](https://travis-ci.org/npmtest/node-npmtest-htmlparser2)
+
 #### Fast & forgiving HTML/XML/RSS parser
 
 [![NPM](https://nodei.co/npm/htmlparser2.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/htmlparser2)
